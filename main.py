@@ -98,7 +98,7 @@ def player_move(board_object):
 #Function for AI's move
 #Initiates the MiniMax recursion for decision making
 def comp_move(board_object):
-    print('Computer playing ........')
+    print('Computer is playing ........')
     print('\n')
     current_max = -10000
     current_move = 0
